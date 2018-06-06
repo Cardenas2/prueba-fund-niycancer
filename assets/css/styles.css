@@ -105,7 +105,8 @@ h5.actividades{
 }
 footer.footer{
 	padding: 1em 0 ;
-	background-color:#e6e315;
+	background-color:#e1153e;
+	color:#fff;
 }
 @media screen and (min-width: 570px){
 	section.quienes-somos{
