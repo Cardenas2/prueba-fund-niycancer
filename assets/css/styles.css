@@ -39,9 +39,7 @@ h1 img{
 h2.carousel-item__title{
 	font-size: 1.3em;
 }
-.borde-caj{
-	border:1px solid #007bff;
-}
+
 @media screen and (min-width: 570px){
 	.carousel-item--img{
 		height: 400px;
@@ -99,6 +97,15 @@ h5{
 }
 h5.actividades{
 
+}
+
+.borde-caj{
+	border:1px solid #007bff;
+	margin: 2em 0;
+}
+footer.footer{
+	padding: 1em 0 ;
+	background-color:#e6e315;
 }
 @media screen and (min-width: 570px){
 	section.quienes-somos{
