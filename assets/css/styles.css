@@ -25,7 +25,7 @@ h1 img{
 	background-repeat: no-repeat;
 	text-align: center;
 	padding-top:1.3em; 
-	border-bottom: 5px solid #a1e216;
+	border-bottom: 5px solid #e11216;
 }
 .carousel-item--img .info{
 	text-align: center;
@@ -38,6 +38,9 @@ h1 img{
 }
 h2.carousel-item__title{
 	font-size: 1.3em;
+}
+.borde-caj{
+	border:1px solid #007bff;
 }
 @media screen and (min-width: 570px){
 	.carousel-item--img{
@@ -90,6 +93,13 @@ h2.noticias__title{
 	text-align: center;
 }
 
+h5{
+	font-family: 'Montserrat Alternates', sans-serif;
+	color:#e1153e;
+}
+h5.actividades{
+
+}
 @media screen and (min-width: 570px){
 	section.quienes-somos{
 	padding:3em 1em;
