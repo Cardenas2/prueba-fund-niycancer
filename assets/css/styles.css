@@ -197,3 +197,31 @@ h5.datos-titulo__puntos {
 	max-height: 400px;}
 	
 }
+
+/*fin nosotors*/
+
+/*noticias*/ 
+nav.submenu{
+	background-size: cover;
+	background-color: #e115e3;
+	margin-top: 6em;
+	color:#fefefe;
+	text-transform: uppercase;
+	width: 100%;
+}
+
+ul li{
+	list-style: none;
+	text-decoration: none;
+	display: inline-block;
+}
+li{
+	padding: 1em 2em 1em 0 ;
+}
+li a{
+	color: #fff;
+}
+a::hover{
+	color:#00b2eb;
+}
+/*fin noticias*/
