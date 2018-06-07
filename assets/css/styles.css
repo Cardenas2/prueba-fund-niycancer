@@ -180,7 +180,7 @@ h2.nosotros__title{
 }
 
 article h3{
-	margin:2em 0;
+	margin:2em 0 ;
 }
 h3.datos-titulo{
 	font-family: 'Montserrat Alternates', sans-serif;
@@ -189,8 +189,8 @@ h3.datos-titulo{
 h5.datos-titulo__puntos {
 	font-size: 1em;
     color: #292929;
-    padding: 1em 0;
-    font-weight: 400;
+    padding: 0.5em 0;
+    font-weight: 700i;
 }
 @media screen and (min-width: 570px){
 	.banners img.img-nosotros{
