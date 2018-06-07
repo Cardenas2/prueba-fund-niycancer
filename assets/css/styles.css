@@ -80,7 +80,7 @@ h2.quienes-somos__title{
 
 section.noticias{
 	border-top:1px solid #999;
-	padding:2em 0; 
+	padding:3em 0 5em 0; 
 	
 }
 h2.noticias__title{
@@ -95,21 +95,35 @@ h5{
 	font-family: 'Montserrat Alternates', sans-serif;
 	color:#e1153e;
 }
-h5.actividades{
 
-}
 
 .borde-caj{
 	border:1px solid #007bff;
 	margin: 2em 0;
 }
-footer.footer{
-	padding: 1em 0 ;
+footer{
+	margin-top: 1em;
 	background-color:#e1153e;
 	color:#fff;
+}
+.datos{
+	width: 100%;
+	padding: 10px;
+	text-align: center;
 }
 @media screen and (min-width: 570px){
 	section.quienes-somos{
 	padding:3em 1em;
     }
+    .datos{
+	width: 30%;
+	text-align: center;
+	}
+	footer{
+	text-align: center;
+	padding: 1em ;
+	}
+
+	
+}
 }
