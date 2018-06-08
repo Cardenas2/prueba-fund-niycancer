@@ -94,7 +94,14 @@ h2.noticias__title{
 	color:#007bff;
 	text-align: center;
 }
-
+.noticias__title a:hover{
+	text-decoration: none;
+	color:#007bff;
+}
+.noticias__title a:visited{
+	text-decoration: none;
+	color:#007bff;
+}
 h5{
 	font-family: 'Montserrat Alternates', sans-serif;
 	color:#e1153e;
@@ -111,8 +118,8 @@ h5{
 /*seccion footer*/
 footer{
 	margin-top: 1em;
-	background-color:#e1153e;
-	color:#fff;
+	background-color:#fff;
+	color:#292929;
 }
 
 .datos{
