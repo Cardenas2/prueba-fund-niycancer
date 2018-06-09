@@ -214,9 +214,15 @@ nav.submenu ul a li{
 	padding: 1em 0.5em;
 }
 
-span.ico-face{
+.izquierda span{
+	font-size: 12px;
+	padding: 5px 7px;
+	border-radius: 5%;
+	color:#fff;
+	margin:0 0.5em 0 0;
 	background-color: red;
 }
+
 
 
 /*fin noticias*/
