@@ -214,7 +214,9 @@ nav.submenu ul a li{
 	padding: 1em 0.5em;
 }
 
-
+span.ico-face{
+	background-color: red;
+}
 
 
 /*fin noticias*/
