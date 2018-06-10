@@ -218,4 +218,25 @@ nav.submenu ul a li{
 	background-color: #fff;
 }
 
+.redes-sociales{
+	color: #ffffff;
+	padding: 3px 4px;
+	font-size: 12px;
+	border-radius: 3px;
+}
+.ico-facebook{
+	background-color: #3b5998;
+	
+}
+.ico-instagram{
+	background-color: #125688;
+	
+}
+.ico-facebook i{
+	padding: 0 3px 0 0;
+}
+.ico-instagram i{
+	padding: 0 3px 0 0;
+}
+
 /*fin noticias*/
