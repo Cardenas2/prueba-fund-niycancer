@@ -238,5 +238,14 @@ nav.submenu ul a li{
 .ico-instagram i{
 	padding: 0 3px 0 0;
 }
+.sidebar{
+	border-left:1px solid #999;
+}
+
+@media screen and (min-width: 570px){
+	.sidebar{
+	border-top:1px solid #999;}
+	
+}
 
 /*fin noticias*/
