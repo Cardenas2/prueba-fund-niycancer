@@ -239,13 +239,8 @@ nav.submenu ul a li{
 	padding: 0 3px 0 0;
 }
 .sidebar{
-	border-left:1px solid #999;
+	background-color: #f4f4f4;
 }
 
-@media screen and (min-width: 570px){
-	.sidebar{
-	border-top:1px solid #999;}
-	
-}
 
 /*fin noticias*/
